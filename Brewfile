@@ -16,12 +16,17 @@ brew 'git'
 brew 'vcprompt'
 brew 'cmake'
 brew 'mas'
+brew 'yarn'
+brew 'node'
 
 # Install Programming Languages
 brew 'python'
 
 # Databases
 brew 'mongodb-community'
+brew 'mysql'
+brew 'postgress'
+brew 'sqllite'
 
 # Apps
 cask 'alfred'

@@ -14,13 +14,20 @@ brew 'bash'
 # Install Binaries
 brew 'git'
 brew 'vcprompt'
-brew 'cmake'
 brew 'mas'
-brew 'yarn'
-brew 'node'
 
 # Install Programming Languages
 brew 'python'
+
+# Install C/C++ Packages
+brew 'cmake'
+
+# Install Javascript Packages
+brew 'yarn'
+brew 'node'
+brew 'nvm'
+brew 'eslint'
+brew 'sass/sass/sass'
 
 # Databases
 brew 'mongodb-community'

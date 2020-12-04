@@ -33,8 +33,8 @@ brew 'sass/sass/sass'
 # Databases
 brew 'mongodb-community'
 brew 'mysql'
-brew 'postgress'
-brew 'sqllite'
+brew 'postgresql'
+brew 'sqlite'
 
 # Apps
 cask 'alfred'

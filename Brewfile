@@ -1,5 +1,5 @@
 # make sure brew is up to date
-brew update
+# brew update
 
 # Taps
 tap 'homebrew/cask'

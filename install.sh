@@ -16,3 +16,6 @@ brew bundle
 
 # Make BASH the default shell environment
 chsh -s $(which bash)
+
+# Install global NPM packages
+npm install --global lite-server

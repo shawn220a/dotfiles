@@ -22,6 +22,7 @@ brew 'zsh-syntax-highlighting'
 brew 'git'
 brew 'vcprompt'
 brew 'mas'
+brew 'trash'
 
 # Install Programming Languages
 brew 'python'

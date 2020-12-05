@@ -19,7 +19,7 @@ brew tap homebrew/bundle
 brew bundle
 
 # Make BASH the default shell environment
-chsh -s $(which bash)
+# chsh -s $(which bash)
 chsh -s $(which zsh)
 
 # Set Git Credentials

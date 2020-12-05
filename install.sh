@@ -21,5 +21,9 @@ brew bundle
 # Make BASH the default shell environment
 chsh -s $(which bash)
 
+# Set Git Credentials
+git config --global user.name "shawn220a"
+git config --global user.email "shawn.42496@gmail.com"
+
 # Install global NPM packages
 npm install --global lite-server

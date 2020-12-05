@@ -59,9 +59,6 @@ cask 'kite'
 
 # Fonts
 cask 'font-cascadia-code'
-cask 'font-cascadia-code-pl'
-cask 'font-cascadia-code-mono-pl'
-cask 'font-cascadia-code-mono'
 
 # Install App Store Apps
 mas '1Password', id: 1333542190

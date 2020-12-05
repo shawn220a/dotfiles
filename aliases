@@ -1,4 +1,9 @@
 # =================
+# dotfiles Aliases
+# =================
+alias dotf='cd ~/dotfiles'
+
+# =================
 # OSX
 # =================
 # Hide/show all desktop icons (useful when presenting)

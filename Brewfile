@@ -12,6 +12,12 @@ tap 'sass/sass'
 # Install Bash
 brew 'bash'
 
+# Install ZSH
+brew 'zsh'
+brew 'zsh-completions'
+brew 'zsh-autosuggestions'
+brew 'zsh-syntax-highlighting'
+
 # Install Binaries
 brew 'git'
 brew 'vcprompt'

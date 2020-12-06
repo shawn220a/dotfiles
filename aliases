@@ -50,7 +50,7 @@ alias gpshu='git push --set-upstream origin'
 alias gl='git log'
 
 # Initialize Repository
-alias gi='git init'
+alias gii='git init'
 
 alias c='code .'
 alias l="ls" # List files in current directory

@@ -20,6 +20,7 @@ brew 'zsh-syntax-highlighting'
 
 # Install Binaries
 brew 'git'
+brew 'gh'
 brew 'vcprompt'
 brew 'mas'
 brew 'trash'

@@ -28,3 +28,5 @@ git config --global user.email "shawn.42496@gmail.com"
 
 # Install global NPM packages
 npm install --global lite-server
+
+./makesymlinks.sh

@@ -35,8 +35,8 @@ alias gc='git commit'
 alias gcm='git commit -m'
 
 # Status of Branches
-alias gss='git status -s'
-alias gs='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
+alias gs='git status -s'
+alias gss='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
 
 # Pull from Remote Branch
 alias gp='git pull'

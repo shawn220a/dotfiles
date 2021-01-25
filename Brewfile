@@ -25,8 +25,9 @@ brew 'vcprompt'
 brew 'mas'
 brew 'trash'
 
-# Install Programming Languages
+# Install Python
 brew 'python'
+cask 'anaconda'
 
 # Install C/C++ Packages
 brew 'cmake'

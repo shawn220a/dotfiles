@@ -65,5 +65,9 @@ alias zfrach='code ~/.zshrc' # open zshrc in vscode
 # =================
 # Conda
 # =================
-
 alias conde="conda deactivate"
+
+# =================
+# Node
+# =================
+alias killport='function _killp(){ lsof -nti:$1 | xargs kill -9 };_killp'

@@ -69,7 +69,7 @@ ZSH_THEME="cobalt2"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git extract brew django gitignore node nvm npm)
+plugins=(git extract brew django gitignore node nvm npm zsh-syntax-highlighting)
 
 # --- Source
 source $ZSH/oh-my-zsh.sh

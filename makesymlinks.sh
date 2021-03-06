@@ -9,7 +9,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="aliases functions bash_profile bash_prompt zshrc private wakatime.cfg"    # list of files/folders to symlink in homedir
+files="aliases functions zshrc private wakatime.cfg zprofile"    # list of files/folders to symlink in homedir
 
 ##########
 

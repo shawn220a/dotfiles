@@ -29,6 +29,9 @@ brew 'trash'
 brew 'python'
 cask 'anaconda'
 
+# Godot
+cask godot
+
 # Install C/C++ Packages
 brew 'cmake'
 

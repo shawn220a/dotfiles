@@ -1,0 +1,1 @@
+alias godot="/Applications/Godot.app/Contents/MacOS/Godot"

@@ -73,7 +73,7 @@ plugins=(git wakatime extract brew django gitignore node nvm npm zsh-syntax-high
 
 # --- Source
 source $ZSH/oh-my-zsh.sh
-source $HOME/.aliases
+source $HOME/.utils/aliases
 
 # User configuration
 

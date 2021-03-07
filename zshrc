@@ -116,5 +116,5 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-export PYTHON_UTILS="$HOME/dotfiles/code/python/utils"
+export PYTHON_UTILS="$HOME/dotfiles/code/python"
 export PATH="$PYTHON_UTILS:$PATH"

@@ -118,4 +118,3 @@ unset __conda_setup
 
 export PYTHON_UTILS="$HOME/dotfiles/code/python/utils"
 export PATH="$PYTHON_UTILS:$PATH"
-

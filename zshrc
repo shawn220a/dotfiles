@@ -118,3 +118,6 @@ unset __conda_setup
 
 export PYTHON_UTILS="$HOME/dotfiles/code/"
 export PATH="$PYTHON_UTILS:$PATH"
+
+# MySQL
+export PATH=${PATH}:/usr/local/mysql/bin/

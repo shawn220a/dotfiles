@@ -13,3 +13,4 @@ choco install discord -y
 choco install unity -y
 choco install python -y
 choco install gh -y
+choco install dotnet -y

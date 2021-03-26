@@ -30,7 +30,7 @@ brew 'python'
 cask 'anaconda'
 
 # Godot
-cask godot
+cask 'godot'
 
 # Install C/C++ Packages
 brew 'cmake'

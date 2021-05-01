@@ -63,9 +63,10 @@ alias zfrash='source ~/.zshrc' # refresh zshrc
 alias zfrach='code ~/.zshrc' # open zshrc in vscode
 
 # =================
-# Conda
+# Conda/Python
 # =================
 alias conde="conda deactivate"
+alias python="python3"
 
 # =================
 # Node

@@ -72,3 +72,11 @@ mas 'Xcode', id: 497799835
 mas 'Microsoft Word', id: 462054704
 mas 'Microsoft PowerPoint', id: 462062816
 mas 'Microsoft Excel', id: 462058435
+mas 'Apple Configurator 2', id: 1037126344
+mas 'Final Cut Pro', id: 424389933
+mas 'Keynote', id: 409183694
+mas 'iMovie', id: 408981434
+mas 'iStatistica Pro', id: 1447778660
+mas 'Pages', id: 409201541
+mas 'Numbers', id: 409203825
+mas 'Speedtest', id: 1153157709

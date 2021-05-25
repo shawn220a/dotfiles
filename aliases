@@ -78,3 +78,5 @@ alias killport='function _killp(){ lsof -nti:$1 | xargs kill -9 };_killp'
 # =================
 alias cal='open -a calendar'
 alias mail='open -a mail'
+alias zoom='open -a zoom.us'
+alias slack='open -a slack'

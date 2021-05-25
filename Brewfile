@@ -8,6 +8,7 @@ tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
 tap 'mongodb/brew'
 tap 'sass/sass'
+tap 'dart-lang/dart'
 
 # Install Bash
 brew 'bash'
@@ -59,8 +60,13 @@ cask 'mongodb-compass'
 cask 'zoom'
 cask 'postman'
 cask 'visual-studio-code'
+cask 'visual-studio-code-insiders'
+cask 'visual-studio'
+cask 'unity'
 cask 'mysqlworkbench'
-cask 'kite'
+cask 'steam'
+cask 'love'
+cask 'discord'
 
 # Fonts
 cask 'font-cascadia-code'

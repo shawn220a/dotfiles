@@ -72,3 +72,8 @@ alias python="python3"
 # Node
 # =================
 alias killport='function _killp(){ lsof -nti:$1 | xargs kill -9 };_killp'
+
+# =================
+# APPLICATIONS
+# =================
+alias cal='open -a calendar'

@@ -69,7 +69,7 @@ ZSH_THEME="cobalt2"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git wakatime extract brew django gitignore node nvm npm zsh-syntax-highlighting)
+plugins=(git wakatime extract brew gitignore node nvm npm zsh-syntax-highlighting)
 
 # --- Source
 source $ZSH/oh-my-zsh.sh
@@ -103,21 +103,21 @@ source $HOME/.aliases
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/Users/shawntschoepe/opt/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/Users/shawntschoepe/opt/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/Users/shawntschoepe/opt/anaconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/Users/shawntschoepe/opt/anaconda3/bin:$PATH"
-    fi
-fi
-unset __conda_setup
+# __conda_setup="$('/Users/shawntschoepe/opt/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+# if [ $? -eq 0 ]; then
+#     eval "$__conda_setup"
+# else
+#     if [ -f "/Users/shawntschoepe/opt/anaconda3/etc/profile.d/conda.sh" ]; then
+#        . "/Users/shawntschoepe/opt/anaconda3/etc/profile.d/conda.sh"
+#     else
+#         export PATH="/Users/shawntschoepe/opt/anaconda3/bin:$PATH"
+#     fi
+# fi
+# unset __conda_setup
 # <<< conda initialize <<<
 
-export PYTHON_UTILS="$HOME/dotfiles/code/"
-export PATH="$PYTHON_UTILS:$PATH"
+# export PYTHON_UTILS="$HOME/dotfiles/code/"
+# export PATH="$PYTHON_UTILS:$PATH"
 
 # MySQL
 export PATH=${PATH}:/usr/local/mysql/bin/

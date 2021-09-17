@@ -74,6 +74,7 @@ plugins=(git wakatime extract brew gitignore node nvm npm zsh-syntax-highlightin
 # --- Source
 source $ZSH/oh-my-zsh.sh
 source $HOME/.aliases
+source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # User configuration
 

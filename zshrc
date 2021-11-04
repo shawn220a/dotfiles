@@ -69,8 +69,8 @@ ZSH_THEME="cobalt2"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git wakatime extract brew gitignore node nvm npm zsh-syntax-highlighting)
-
+plugins=(git extract brew gitignore node nvm npm zsh-syntax-highlighting)
+#wakatime
 # --- Source
 source $ZSH/oh-my-zsh.sh
 source $HOME/.aliases

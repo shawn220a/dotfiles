@@ -115,7 +115,7 @@ else
     fi
 fi
 unset __conda_setup
-<<< conda initialize <<<
+# <<< conda initialize <<<
 
 export PYTHON_UTILS="$HOME/dotfiles/code/"
 export PATH="$PYTHON_UTILS:$PATH"

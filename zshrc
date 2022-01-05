@@ -107,4 +107,3 @@ export PATH="$PYTHON_UTILS:$PATH"
 
 # MySQL
 export PATH=${PATH}:/usr/local/mysql/bin/
-export PATH="/Users/shawntschoepe/anaconda3/bin:$PATH"
